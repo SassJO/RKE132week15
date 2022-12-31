@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\bin\Debug\net6.0\week15OOPandfiles.exe
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\bin\Debug\net6.0\week15OOPandfiles.deps.json
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\bin\Debug\net6.0\week15OOPandfiles.runtimeconfig.json
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\bin\Debug\net6.0\week15OOPandfiles.dll
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\bin\Debug\net6.0\week15OOPandfiles.pdb
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.dll
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\refint\week15OOPandfiles.dll
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.pdb
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\week15OOPandfiles.genruntimeconfig.cache
+C:\Users\Admin\source\repos\week15OOPandfiles\week15OOPandfiles\obj\Debug\net6.0\ref\week15OOPandfiles.dll
